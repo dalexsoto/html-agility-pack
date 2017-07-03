@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPack.Android", "..\HtmlAgilityPack.Android\HtmlAgilityPack.Android.csproj", "{C5C3FBAA-75A2-4FD8-944F-1472EA34F81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C3FBAA-75A2-4FD8-944F-1472EA34F81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C3FBAA-75A2-4FD8-944F-1472EA34F81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C3FBAA-75A2-4FD8-944F-1472EA34F81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C3FBAA-75A2-4FD8-944F-1472EA34F81E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
